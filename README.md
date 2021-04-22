@@ -1,9 +1,9 @@
 # QuickSort_Comparisons
-Comparison of quicksort implementations in C#, C++, Python and F#
+Comparison of quicksort implementations in C#, C++, Python and F#. 
+C# version was as fast as C++ but memory consumption was higher (around double the memory used as compared to C++). Python was by far the slowest.
 
 ## Timings
 
-C# version was as fast as C++ but memory consumption was higher (around double the memory used as compared to C++). Python was by far the slowest.
 
 - f# seq: 5000000 numbers
   - run 1: 1.02 minutes (60.7 secs) max memory 2.2 gb
